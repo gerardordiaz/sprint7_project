@@ -1,3 +1,8 @@
-# sprint7_project
+PROTECTO SPRINT 7 (app para analisis de venta de autos usados)
 
- describe el comportamiento de ventas de los carros en los ultimos 4 años
+La app permite generar visuales para poder entender la venta de autos usados para diferentes marcas,modelos, kilometrajes y otras variables en los ultimos 4 años
+
+link RENDER: https://sprint7-project-g3du.onrender.com/
+
+Autore: Gerardo rojas D
+
